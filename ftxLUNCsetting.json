@@ -1,0 +1,13 @@
+{
+  "LOGFILE":"lunc.log",
+  "apiKey":"XXXXXXXXXXXXXXXXXXXX",
+  "secret":"XXXXXXXXXXXXXXXXXXXX",
+  "sub_account":"",
+  "symbol":"LUNC-PERP",
+  "grid_level":300,
+  "lower_price":0.0001501,
+  "upper_price":0.0007503,
+  "amount":200000,
+  "currency":"USD",
+  "target":"LUNC-PERP"
+}
